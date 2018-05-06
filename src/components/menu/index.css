@@ -1,0 +1,39 @@
+.menu{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+    width: 100%;
+    border: 1px solid hsla(264, 48%, 85%, 1);
+}
+
+.switch{
+    display: flex;
+    width: 80px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    text-align: center;
+}
+.logo{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search{
+    flex-shrink: 0;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 80px;
+}
+.b{
+    color: hsla(264, 48%, 85%, 1);
+    background-color: hsla(264, 48%, 33%, 1);
+}
+i{
+    font-size: 30px;
+}

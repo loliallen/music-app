@@ -1,0 +1,32 @@
+.search-page{
+    margin: 5px;
+
+}
+.input-bar{
+    margin: 0;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    position: static;
+
+}
+.search-input{
+    width: 75%;
+    outline: none;
+    border: none;
+    height: 40%;
+
+}
+.artist-list{
+    margin: 5px 50px;
+
+
+}
+.artist-row {
+    margin: 5px 0px;
+    padding: 5px;
+    border: 1px solid black;
+
+}
